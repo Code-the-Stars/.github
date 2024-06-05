@@ -1,6 +1,6 @@
 ## 🌟 Welcome to Code The Stars Hackathon 🌟
 
-![A vibrant crowd gathered around a large screen displaying code](https://example.com/code-the-stars-crowd.jpg)
+![Our Logo of our first Hackathon 2024 Illuminate](https://illuminate-coral.vercel.app/assets/static/Illuminate.svg)
 
 Embark on an exhilarating journey with us, where creativity meets innovation, and every line of code is a step towards shaping the future. We are not just a team; we are a family of dreamers, innovators, and tech enthusiasts, united by a passion for coding and a desire to make a difference.
 
