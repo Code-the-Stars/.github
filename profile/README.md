@@ -1,4 +1,4 @@
-## 🌟 Welcome to Code The Stars Hackathon 🌟
+## 🌟 Welcome to Code The Stars 🌟
 
 <img src="https://illuminate-coral.vercel.app/assets/static/Illuminate.svg" alt="Our Logo of our first Hackathon 2024 Illuminate" width="200" height="200">
 
