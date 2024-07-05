@@ -7,7 +7,7 @@ Embark on an exhilarating journey with us, where creativity meets innovation, an
 
 ### 🚀 Our Mission
 
-At Code The Stars, we believe in the power of technology to transform lives and communities. Our mission is to foster a nurturing environment where ideas are born, developed, and brought to life. We're here to inspire, innovate, and create solutions that address real-world challenges.
+At Code The Stars, we believe in the power of technology to transform lives and communities. Our mission is to make tools, host events, and empower young coders.
 
 ### 💡 Get Involved
 
@@ -16,14 +16,14 @@ Dive into the world of Code The Stars and become part of something bigger:
 - Participate in our upcoming hackathon events and challenge yourself alongside like-minded individuals.
 - Engage with our community through social media and forums to share ideas, collaborate on projects, and learn from each other.
 - Contribute to our open-source initiatives and help shape the future of technology together.
-
+- Join our staff team and help make exciting events and projects for the community.
 ### 🛠️ Contributing Your Skills
 
 Whether you're a seasoned coder, a beginner looking to learn, or someone with a unique skill set, there's a place for you at Code The Stars. Here are some ways you can contribute:
 
 - Share your expertise by leading workshops or mentoring others.
 - Pitch in with your coding skills to develop innovative solutions during our hackathons.
-- Volunteer for organizing events, managing social media, or supporting our community in other ways.
+- Volunteer for organizing events, managing social media, or other roles that can contribute to the community. 
 
 ### 🎉 Celebrating Success Together
 
@@ -34,3 +34,14 @@ Thank you for choosing to be a part of Code The Stars. Let's code, create, and c
 ---
 
 *Psst Keep an eye on our website and social media channels for the latest updates and opportunities to get involved.*
+
+New Version:
+Code the Stars is a non-profit organization that aims to make tools, host events, and empower young coders. We have hosted hackathons, run events, and are working on tools for young coders.
+
+Code the Stars was founded by coders who loved the art but were frusterated by the low amount of resources available to young coders. That thought resulted in this organization run by these coders to make a difference to bridge that gap and allow young coders to embark on this magical journey without hitting these roadblocks that hindered their growth. 
+
+# What we do
+
+We run events where young coders can collaborate on projects, share ideas, and learn from each others, for free! 
+We make tools to help the community that the community can build and improve! (Note: Tools are not released yet)
+We are always cooking up some cool things for young hackers - check back later!
