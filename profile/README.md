@@ -3,7 +3,7 @@ We're glad to have you here.
 
 ### 🚀 Our Mission
 
-Code the Stars is a non-profit organization that aims to make tools, host events, give back, and empower young coders. Code the Stars was founded by young adults who loved technology but were frusterated by the low amount of resources available to young coders. That thought resulted in this organization run by these coders to make a difference to bridge that gap and allow young coders to embark on this magical journey without hitting these roadblocks that hindered their growth. 
+Code the Stars is a non-profit organization that aims to make tools, host events, give back, and empower young coders. Code the Stars was founded by young adults who loved technology but were frustrated by the low amount of resources available to young coders. That thought resulted in this organization run by these coders to make a difference to bridge that gap and allow young coders to embark on this magical journey without hitting these roadblocks that hindered their growth.
 
 
 ### 💡 Get Involved
